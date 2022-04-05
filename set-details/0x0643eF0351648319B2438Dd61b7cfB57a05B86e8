@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Barket Defi Structure",
+    "setSymbol": "BKTDS",
+    "setDecimals": 18,
+    "setIcon": "https://github.com/holderthegrey/uniswap-tokenlist/commit/ce3e898802c3a12d915125b941753ea76992ab28/assets/tokens/logobktds2.jpg",         
+    "setDescription": "The barket defi structure brings together the major players in the defi. Aave is a decentralized finance protocol that allows people to lend and borrow crypto. Synthetix is a decentralized finance (DeFi) protocol that provides on-chain exposure to a wide variety of crypto and non-crypto assets.The 1inch Network's first protocol is a decentralized exchange (DEX) aggregator solution that searches deals across multiple liquidity sources.The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem. Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming.",
+    "website": "https://www.barket.ch",
+    "managerName": "Barket Index &",
+    "managerTwitter": "Barketindex",
+    "managerIcon": "https://github.com/holderthegrey/uniswap-tokenlist/main/assets/managers/LogoBarket",   
+    "managerDescription": "The community-owned DeFi index. The Barket Index offers a view of the development possibilities of major crypto Defi.Barket is a vision project which exhibits huge upside potential in the coming future, for the long term since Blockchain, Data, Web3, De-Fi and Metaverse are still in the nascent phase of infrastructure development."
+  },
+  "version": 1
+}
